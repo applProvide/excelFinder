@@ -85,6 +85,22 @@
       <li>추가한 폴더나 파일을 삭제합니다.</li>
     </ol>
   </section>
+
+  <section>
+    <h2>3.검색조건 생성</h2>
+    <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
+    <div>
+<img width="723" height="421" alt="image" src="https://github.com/user-attachments/assets/fd76f3c3-e388-4223-b59c-fdd70cf9f0f9" />
+
+    </div>
+    <ol>
+      <li>새로운 검색조건을 생성합니다.</li>
+      <li>검색조건을 저장합니다.</li>
+      <li>생성된 검색조건이 표시됩니다.</li>
+      <li>검색조건에 포함할 그룹을 추가합니다.그룹별로 and 와 or 로 조인합니다.</li>
+      <li>그룹안에 포함된 조건들의 연산을 지정합니다.</li>
+    </ol>
+  </section>
   
 </section>
 
