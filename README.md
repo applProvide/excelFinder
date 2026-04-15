@@ -54,19 +54,37 @@
 </ul>
 <section>
   <h1>사용자 메뉴얼 (실사용자용 설명)</h1>
-  <h2>기본화면 설명</h2>
-  <div>
-    <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/25eac3ca-5449-4a03-a68d-7e925116c84e" />
-  </div>
-  <ol>
-    <li>새로은 프로젝트를 생성합니다.</li>
-    <li>검색 조건이 표시됩니다.</li>
-    <li>선택된 검색조건에 따라 검색을 시작합니다.</li>
-    <li>선택된 엑셀파일을 저장합니다.</li>
-    <li>생성된 프로젝트가 표시되며 수정/삭제/검색조건을 생성합니다.</li>
-    <li>선택된 프로젝트의 폴더 및 파일 목록을 표시합니다.</li>
-    <li>파일 원 클릭시 우측에 표시되면 더블클릭시 pc에서 파일을 열수 있습니다.</li>
-    <li>엑셀 파일명</li>
-    <li>셀을 더블클릭시 내용을 수정할수 있습니다.</li>
-  </ol>
+  <section>
+    <h2>1.기본화면 설명</h2>
+    <div>
+      <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/25eac3ca-5449-4a03-a68d-7e925116c84e" />
+    </div>
+    <ol>
+      <li>새로은 프로젝트를 생성합니다.</li>
+      <li>검색 조건이 표시됩니다.</li>
+      <li>선택된 검색조건에 따라 검색을 시작합니다.</li>
+      <li>선택된 엑셀파일을 저장합니다.</li>
+      <li>생성된 프로젝트가 표시되며 수정/삭제/검색조건을 생성합니다.</li>
+      <li>선택된 프로젝트의 폴더 및 파일 목록을 표시합니다.</li>
+      <li>파일 원 클릭시 우측에 표시되면 더블클릭시 pc에서 파일을 열수 있습니다.</li>
+      <li>엑셀 파일명</li>
+      <li>셀을 더블클릭시 내용을 수정할수 있습니다.</li>
+    </ol>
+  </section>
+  <section>
+    <h2>2.프로젝트 생성</h2>
+    <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
+    <div>
+     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/5f0a8d63-865b-4559-b41c-dcab73cb9140" />
+    </div>
+    <ol>
+      <li>프로젝트 이름을 등록합니다.</li>
+      <li>검색조건에 포함할 폴더를 추가합니다.</li>
+      <li>검색조건에 포함할 파일을 추가합니다.</li>
+      <li>프로젝트를 저장합니다.</li>
+      <li>추가한 폴더나 파일을 삭제합니다.</li>
+    </ol>
+  </section>
+  
 </section>
+
