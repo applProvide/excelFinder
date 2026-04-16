@@ -58,7 +58,6 @@
     <h2>1.기본화면 설명</h2>
     <div>
      <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/283f37e1-be48-4559-b3cb-efedce4fb89a" />
-
     </div>
     <ol>
       <li>새로은 프로젝트를 생성합니다.</li>
