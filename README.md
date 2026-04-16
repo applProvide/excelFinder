@@ -57,7 +57,8 @@
   <section>
     <h2>1.기본화면 설명</h2>
     <div>
-      <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/25eac3ca-5449-4a03-a68d-7e925116c84e" />
+     <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/283f37e1-be48-4559-b3cb-efedce4fb89a" />
+
     </div>
     <ol>
       <li>새로은 프로젝트를 생성합니다.</li>
