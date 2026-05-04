@@ -1,138 +1,160 @@
 # ExcelFinder
 🌐 [English](README.md) | [한국어](README.ko.md)
-<h1>엑셀 데이터 통합 검색 프로그램</h1>
-<h2>엑셀 데이터, 이제 찾지 말고 ‘검색’하세요.</h2>
 
-<h3>복잡한 엑셀 데이터 속에서 원하는 정보를 빠르게 찾아내는
-그룹 기반 고급 검색 프로그램</h3>
-<ul>
-  <li>날짜 / 숫자 / 문자열 조건 동시 검색</li>
-  <li>그룹 단위 조건 구성 (복잡한 검색도 쉽게)</li>
-  <li>검색 결과 저장 및 재사용</li>
-  <li>대용량 데이터도 빠르게 처리</li>
-  <li>단순 필터를 넘어선, 진짜 데이터 검색 도구</li>
-</ul>
-<h3>1. 개요</h3>
-<h4>본 프로그램은 엑셀 데이터를 효율적으로 탐색하기 위한 다중 조건 기반 검색 시스템을 제공합니다.</h4>
-<h4>사용자는 다양한 조건을 조합하여 원하는 데이터를 빠르게 추출할 수 있으며, 검색 결과를 저장 및 재활용할 수 있습니다.</h4>
+<h1>Excel Data Integrated Search Program</h1>
+<h2>Stop browsing Excel data — start searching it.</h2>
 
-<h3>2. 주요 기능</h3>
-<h4>2.1 그룹 기반 검색 시스템</h4>
+<h3>A group-based advanced search program that quickly finds the data you need from complex Excel files</h3>
 <ul>
-  <li>검색 조건을 그룹 단위로 구성할 수 있음</li>
-  <li>각 그룹은 독립적으로 조건을 가지며, 전체 검색 시 조합됨</li>
-  <li>복잡한 조건을 논리적으로 구성 가능</li>
-  <li>AND / OR 방식 확장 가능 </li>
-</ul>
-<h4>2.2 다양한 검색 조건 지원</h4>
-<ul>
-  <li>날짜 검색 - 기간지정</li>
-  <li>숫자 검색 - (이상,이하,범위) / 비교 연산 지원 [50 and 20]</li>
-  <li>문자열 검색 -부분일치[%홍길동%] / 완전일치 [홍길동]</li>
-</ul>
-<h4>2.3 다중 조건 조합 검색</h4>
-<ul>
-  <li>여러 그룹 및 조건을 동시에 적용 가능</li>
-  <li>복합 필터링 지원</li>
-</ul>
-<h4>2.4 검색 결과 관리</h4>
-<ul>
-  <li>검색 결과를 파일로 저장 가능 (엑셀)</li>
-</ul>
-<h4>2.5 사용자 편의 기능</h4>
-<ul>
-  <li>직관적인 UI 기반 조건 설정</li>
-  <li>반복 검색을 위한 조건 유지 기능</li>
-  <li>빠른 검색 속도 (대용량 엑셀 대응 시 강조 가능)</li>
+  <li>Simultaneous search with date, number, and text conditions</li>
+  <li>Group-based condition configuration (handle complex searches easily)</li>
+  <li>Save and reuse search results</li>
+  <li>Fast processing even with large datasets</li>
+  <li>A true data search tool beyond simple filters</li>
 </ul>
 
-<h3>3. 활용 사례</h3>
+<h3>1. Overview</h3>
+<h4>This program provides a multi-condition search system designed for efficient exploration of Excel data.</h4>
+<h4>Users can combine various conditions to quickly extract desired data and save or reuse search results.</h4>
+
+<h3>2. Key Features</h3>
+
+<h4>2.1 Group-Based Search System</h4>
 <ul>
-  <li>매출 데이터 분석</li>
-  <li>재고 검색 및 필터링</li>
-  <li>회계 데이터 검증</li>
-  <li>업무 기록 검색</li>
+  <li>Search conditions can be organized into groups</li>
+  <li>Each group operates independently and is combined during search</li>
+  <li>Allows logical construction of complex conditions</li>
+  <li>Supports AND / OR operations</li>
 </ul>
+
+<h4>2.2 Various Search Conditions</h4>
+<ul>
+  <li>Date search – specify a range</li>
+  <li>Number search – supports comparison operators (greater than, less than, range) [e.g., 50 and 20]</li>
+  <li>Text search – partial match [%John%] / exact match [John]</li>
+</ul>
+
+<h4>2.3 Multi-Condition Combination</h4>
+<ul>
+  <li>Apply multiple groups and conditions simultaneously</li>
+  <li>Supports complex filtering</li>
+</ul>
+
+<h4>2.4 Search Result Management</h4>
+<ul>
+  <li>Save search results as a file (Excel)</li>
+</ul>
+
+<h4>2.5 User Convenience Features</h4>
+<ul>
+  <li>Intuitive UI-based condition setup</li>
+  <li>Condition persistence for repeated searches</li>
+  <li>Fast search performance (optimized for large Excel datasets)</li>
+</ul>
+
+<h3>3. Use Cases</h3>
+<ul>
+  <li>Sales data analysis</li>
+  <li>Inventory search and filtering</li>
+  <li>Accounting data validation</li>
+  <li>Work log searching</li>
+</ul>
+
 <section>
-  <h1>사용자 메뉴얼 (실사용자용 설명)</h1>
+  <h1>User Manual</h1>
+
   <section>
-    <h2>1.기본화면 설명</h2>
+    <h2>1. Main Screen Overview</h2>
     <div>
-     <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/f2989d1d-49b4-42c7-b764-e11ac5e04823" />
+     <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/283f37e1-be48-4559-b3cb-efedce4fb89a" />
     </div>
     <ol>
-      <li>새로은 프로젝트를 생성합니다.</li>
-      <li>검색 조건이 표시됩니다.</li>
-      <li>선택된 검색조건에 따라 검색을 시작합니다.</li>
-      <li>선택된 엑셀파일을 저장합니다.</li>
-      <li>생성된 프로젝트가 표시되며 수정/삭제/검색조건을 생성합니다.</li>
-      <li>선택된 프로젝트의 폴더 및 파일 목록을 표시합니다.</li>
-      <li>파일 원 클릭시 우측에 표시되면 더블클릭시 pc에서 파일을 열수 있습니다.</li>
-      <li>엑셀 파일명</li>
-      <li>셀을 더블클릭시 내용을 수정할수 있습니다.</li>
-    </ol>
-  </section>
-  <section>
-    <h2>2.프로젝트 생성</h2>
-    <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
-    <div>
-     <img width="460" height="375" alt="image" src="https://github.com/user-attachments/assets/a0e4bd5b-9526-4023-a401-c17e33e785f7" />
-    </div>
-    <ol>
-      <li>프로젝트 이름을 등록합니다.</li>
-      <li>검색조건에 포함할 폴더를 추가합니다.</li>
-      <li>검색조건에 포함할 파일을 추가합니다.</li>
-      <li>프로젝트를 저장합니다.</li>
-      <li>추가한 폴더나 파일을 삭제합니다.</li>
+      <li>Create a new project.</li>
+      <li>Search conditions are displayed.</li>
+      <li>Start search based on the selected condition.</li>
+      <li>Save selected Excel files.</li>
+      <li>View created projects and manage (edit/delete/create conditions).</li>
+      <li>Display folders and files of the selected project.</li>
+      <li>Single-click to preview on the right, double-click to open the file on your PC.</li>
+      <li>Excel file name.</li>
+      <li>Double-click a cell to edit its content.</li>
     </ol>
   </section>
 
   <section>
-    <h2>3.검색조건 생성</h2>
-    <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
+    <h2>2. Creating a Project</h2>
+    <h3>Click the [Create New Project] button to create a project.</h3>
     <div>
-    <img width="723" height="420" alt="image" src="https://github.com/user-attachments/assets/388b6198-5c27-466e-9484-52243c8961a1" />
+     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/5f0a8d63-865b-4559-b41c-dcab73cb9140" />
     </div>
     <ol>
-      <li>새로운 검색조건을 생성합니다.</li>
-      <li>검색조건을 저장합니다.</li>
-      <li>생성된 검색조건이 표시됩니다.</li>
-      <li>검색조건에 포함할 그룹을 추가합니다.그룹별로 and 와 or 로 조인합니다.</li>
-      <li>그룹안에 포함된 조건들의 연산을 지정합니다.</li>
-      <li>[검색열(컬럼선택)]
-        <ul>
-          <li>[모든열] - 모든 열에서 데이타를 검색합니다.단 문자검색만 허용합니다.</li>
-          <li>[열선택(제목)] - 열을 선택합니다. 열 이름을 적어주시면 됩니다.</li>
-          <li>[열선택(A,B,C)] - 열을 선택합니다. 열번호를 적어주시면 됩니다.</li>
-        </ul>
-      </li>
-      <li>[열선택(제목) 및 열선택(A,B,C)] 표시</li>
-      <li>[검색 타입]
-        <ul>
-          <li>[문자검색] - 문자열을 검색하며 아래방식으로 입력을 합니다.
-              <ul>
-                <li>단어 완전일치 - ex)홍길동</li>
-                <li>단어 앞부분 일치 - ex)%홍길동</li>
-                <li>단어 뒷부분 일치 - ex)홍길동%</li>
-                <li>단어 부분 일치 - ex)%홍길동%</li>
-                <li>여러단어 검색 - ex)in(홍길동,감감찬)</li>
-              </ul>
-          </li>
-          <li>[숫자검색] - 숫자를 입력한후 우측의 연산자를 선택합니다.
-              <ul>
-                <li>숫자범위(2000원 보다 크고 3000원보다 작다) - ex)2000,3000 </li>
-              </ul>
-          </li>
-          <li>[날짜검색] - 시작일과 종료일을 입력하세요
-          </li>
-        </ul>
-      </li>
-      <li>위의 조건으로 검색 - 선택된 조건으로 결과를 출력합니다.<br>
-        위의 조건 제외하고 검색 - 선택된 조건의 결과물을 제외하고 출력합니다.
-      </li>
-      <li>그룹간 결과를 and 와 or 로 조인합니다.</li>
+      <li>Enter the project name.</li>
+      <li>Add folders to include in search conditions.</li>
+      <li>Add files to include in search conditions.</li>
+      <li>Save the project.</li>
+      <li>Delete added folders or files.</li>
     </ol>
   </section>
-  
+
+  <section>
+    <h2>3. Creating Search Conditions</h2>
+    <h3>Click the [Search Conditions] button in the selected project to create conditions.</h3>
+    <div>
+    <img width="723" height="421" alt="image" src="https://github.com/user-attachments/assets/fd76f3c3-e388-4223-b59c-fdd70cf9f0f9" />
+    </div>
+    <ol>
+      <li>Create a new search condition.</li>
+      <li>Save the search condition.</li>
+      <li>View created conditions.</li>
+      <li>Add groups for conditions (combine with AND / OR).</li>
+      <li>Define operations within a group.</li>
+      <li>[Select Search Column]
+        <ul>
+          <li>[All Columns] – Search across all columns (text only)</li>
+          <li>[Select by Title] – Enter column name</li>
+          <li>[Select by Index (A, B, C)] – Enter column index</li>
+        </ul>
+      </li>
+      <li>Column selection display</li>
+      <li>[Search Type]
+        <ul>
+          <li>[Text Search]
+              <ul>
+                <li>Exact match – e.g., John</li>
+                <li>Starts with – e.g., %John</li>
+                <li>Ends with – e.g., John%</li>
+                <li>Contains – e.g., %John%</li>
+                <li>Multiple keywords – e.g., in(John, Smith)</li>
+              </ul>
+          </li>
+          <li>[Number Search]
+              <ul>
+                <li>Range (greater than 2000 and less than 3000) – e.g., 2000,3000</li>
+              </ul>
+          </li>
+          <li>[Date Search] – Enter start and end date</li>
+        </ul>
+      </li>
+      <li>
+        Search with conditions – show results matching conditions<br>
+        Exclude conditions – exclude matching results
+      </li>
+      <li>Combine group results using AND / OR</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>4. Searching with Conditions</h2>
+    <h3>Select a project and run a search using created conditions.</h3>
+    <div>
+     <img width="793" height="458" alt="image" src="https://github.com/user-attachments/assets/f045592a-5a43-4a45-867a-020bfac1efc5" />
+    </div>
+     <ol>
+      <li>Select a project.</li>
+      <li>Select a search condition.</li>
+      <li>Click the search button.</li>
+      <li>View search results.</li>
+    </ol>
+  </section>
+
 </section>
-
