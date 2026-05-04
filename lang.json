@@ -1,0 +1,14 @@
+{
+  "KO": {
+    "license_label": "소프트웨어 사용권 계약 및 개인정보 처리방침",
+    "license_agreeNot": "위의 내용에 동의하지 않습니다.",
+    "license_agreeOk": "위의 내용에 동의합니다.",
+    "license_licenseAgreeBtn": "확인"
+  },
+  "EN": {
+    "license_label": "Software License Agreement and Privacy Policy",
+    "license_agreeNot": "I do not agree to the above terms.",
+    "license_agreeOk": "I agree to the above terms.",
+    "license_licenseAgreeBtn": "OK"
+  }
+}
