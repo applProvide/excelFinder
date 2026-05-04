@@ -133,6 +133,20 @@
       <li>그룹간 결과를 and 와 or 로 조인합니다.</li>
     </ol>
   </section>
+
+  <section>
+    <h2>4.검색조건으로 검색하기</h2>
+    <h3>프로젝트를 선택하여 생성된 검색조건으로 검색합니다.</h3>
+    <div>
+     <img width="793" height="458" alt="image" src="https://github.com/user-attachments/assets/f045592a-5a43-4a45-867a-020bfac1efc5" />
+    </div>
+     <ol>
+      <li>프로젝트를 선택합니다.</li>
+      <li>검색조건을 선택합니다.</li>
+      <li>검색하기 버튼을 선택합니다.</li>
+      <li>검색된 경과가 표시됩니다.</li>
+    </ol>
+  </section>
   
 </section>
 
