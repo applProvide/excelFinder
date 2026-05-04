@@ -104,7 +104,7 @@
     "controller_func": "Function",
     "controller_projectExcelList": "[Excluded from search when checked] Path",
     "controller_basic_use": "[Excluded from search when checked] Path",
-    "controller_search_jogun": "Search Conditions",
+    "controller_search_jogun": "Condition",
     "controller_license_ok": "Please select your agreement to the Software License Agreement and Privacy Policy.",
     "controller_block": "Access has been blocked.",
     "controller_edit": "Edit",
