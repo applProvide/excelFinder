@@ -58,7 +58,7 @@
   <section>
     <h2>1.기본화면 설명</h2>
     <div>
-     <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/283f37e1-be48-4559-b3cb-efedce4fb89a" />
+     <img width="804" height="452" alt="image" src="https://github.com/user-attachments/assets/f2989d1d-49b4-42c7-b764-e11ac5e04823" />
     </div>
     <ol>
       <li>새로은 프로젝트를 생성합니다.</li>
@@ -76,7 +76,7 @@
     <h2>2.프로젝트 생성</h2>
     <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
     <div>
-     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/5f0a8d63-865b-4559-b41c-dcab73cb9140" />
+     <img width="460" height="375" alt="image" src="https://github.com/user-attachments/assets/a0e4bd5b-9526-4023-a401-c17e33e785f7" />
     </div>
     <ol>
       <li>프로젝트 이름을 등록합니다.</li>
@@ -91,7 +91,7 @@
     <h2>3.검색조건 생성</h2>
     <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
     <div>
-    <img width="723" height="421" alt="image" src="https://github.com/user-attachments/assets/fd76f3c3-e388-4223-b59c-fdd70cf9f0f9" />
+    <img width="723" height="420" alt="image" src="https://github.com/user-attachments/assets/388b6198-5c27-466e-9484-52243c8961a1" />
     </div>
     <ol>
       <li>새로운 검색조건을 생성합니다.</li>
