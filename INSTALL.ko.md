@@ -1,4 +1,4 @@
-🌐 [English](INSTALL.md) | [한국어](INSTALL.ko.md)
+### 🌐[English](INSTALL.md) | [한국어](INSTALL.ko.md)
 <h1>엑셀 데이터 통합 검색 프로그램 엑셀파인더를<br /> 이제 간편하게 다운로드하여 사용해보세요.</h1>
 <h2>엑셀파인더는 사용 환경에 따라 두 가지 방식으로 제공됩니다.</h2>
 <ul>
