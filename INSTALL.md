@@ -1,3 +1,4 @@
+🌐 [English](INSTALL.md) | [한국어](INSTALL.ko.md)
 <h1>Download and start using ExcelFinder, the integrated Excel data search program, with ease.</h1>
 <h2>ExcelFinder is available in two formats depending on your environment.</h2>
 <ul>
