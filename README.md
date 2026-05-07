@@ -1,5 +1,5 @@
 # ExcelFinder
-## 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Install Guide](INSTALL.md)
+### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Install Guide](INSTALL.md)
 
 <h1>Excel Data Integrated Search Program</h1>
 <h2>Stop browsing Excel data — start searching it.</h2>
