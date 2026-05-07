@@ -6,7 +6,7 @@
 </ul>
 
 <h3><a href="https://github.com/applProvide/excelFinder/releases/download/v1.0.0/ExcelFinder_setup.zip">설치형 다운로드</a></h3>
-<h3><a href="https://github.com/applProvide/excelFinder/releases/download/v1.0.0/ExcelFinder_setup.zip">압축파일 다운로드</a></h3>
+<h3><a href="https://github.com/applProvide/excelFinder/releases/download/v1.0.0/excelFinder.zip">압축파일 다운로드</a></h3>
 
 <section>
   <h1>설치형 - 설치 방법</h1>
@@ -40,5 +40,10 @@
     <img width="442" height="346" alt="image" src="https://github.com/user-attachments/assets/aa5b7928-965a-49b7-9f19-d5aaa4ceda13" />
   </div>
   
+</section>
+
+<section>
+  <h1>압축파일 - 설치 방법</h1>
+  <h3>다운받은 파일을 압축 해제</h3>
 </section>
 
