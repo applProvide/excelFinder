@@ -44,6 +44,16 @@
 
 <section>
   <h1>압축파일 - 설치 방법</h1>
-  <h3>다운받은 파일을 압축 해제</h3>
+  <h3>다운받은 파일을 압축 해제 한후 [excelFinder] 클릭</h3>
+  <div>
+    <img width="612" height="174" alt="image" src="https://github.com/user-attachments/assets/26618c98-e5a2-41fa-a963-684b38b64336" />
+  </div>
+</section>
+
+<section>
+  <h1>실행화면</h1>
+  <div>
+    <img width="1529" height="881" alt="image" src="https://github.com/user-attachments/assets/14c72942-2042-4b80-91ae-596baa224d50" />
+  </div>
 </section>
 
