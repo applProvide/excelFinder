@@ -4,6 +4,18 @@
 <h1>Excel Data Integrated Search Program</h1>
 <h2>Stop browsing Excel data — start searching it.</h2>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dgeh7hdz8D0">
+    <img src="https://img.youtube.com/vi/Dgeh7hdz8D0/0.jpg" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dgeh7hdz8D0">
+    <img src="https://img.shields.io/badge/▶-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
+
 <h3>A group-based advanced search program that quickly finds the data you need from complex Excel files</h3>
 <ul>
   <li>Simultaneous search with date, number, and text conditions</li>
