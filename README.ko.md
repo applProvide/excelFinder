@@ -1,5 +1,5 @@
 # ExcelFinder
-### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [무료 다운로드](INSTALL.md)
+### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [무료 다운로드](INSTALL.ko.md)
 <h1>엑셀 데이터 통합 검색 프로그램</h1>
 <h2>엑셀 데이터, 이제 찾지 말고 ‘검색’하세요.</h2>
 
