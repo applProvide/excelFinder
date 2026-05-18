@@ -3,6 +3,18 @@
 <h1>엑셀 데이터 통합 검색 프로그램</h1>
 <h2>엑셀 데이터, 이제 찾지 말고 ‘검색’하세요.</h2>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dgeh7hdz8D0">
+    <img src="https://img.youtube.com/vi/Dgeh7hdz8D0/0.jpg" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Dgeh7hdz8D0">
+    <img src="https://img.shields.io/badge/▶-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
+
 <h3>복잡한 엑셀 데이터 속에서 원하는 정보를 빠르게 찾아내는
 그룹 기반 고급 검색 프로그램</h3>
 <ul>
